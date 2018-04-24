@@ -1,5 +1,5 @@
 I am learning Git
 
-git 怎么记录改变呢？？
+Git is free software distributed under the GPL.
 
 second test
